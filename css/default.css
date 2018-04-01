@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+#code{
+    height: 600px;
+}
+
+.token.comment{
+    color:black;
+}
+.token.selector{
+    color:black;
+}
+.token.property{
+    color:black;
+}
